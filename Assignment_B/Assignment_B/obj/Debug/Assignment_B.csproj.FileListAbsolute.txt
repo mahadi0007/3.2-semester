@@ -1,0 +1,9 @@
+F:\3.2\SD\Assignment_B\Assignment_B\bin\Debug\Assignment_B.exe.config
+F:\3.2\SD\Assignment_B\Assignment_B\bin\Debug\Assignment_B.exe
+F:\3.2\SD\Assignment_B\Assignment_B\bin\Debug\Assignment_B.pdb
+F:\3.2\SD\Assignment_B\Assignment_B\obj\Debug\Assignment_B.csprojAssemblyReference.cache
+F:\3.2\SD\Assignment_B\Assignment_B\obj\Debug\Assignment_B.Form1.resources
+F:\3.2\SD\Assignment_B\Assignment_B\obj\Debug\Assignment_B.Properties.Resources.resources
+F:\3.2\SD\Assignment_B\Assignment_B\obj\Debug\Assignment_B.csproj.GenerateResource.cache
+F:\3.2\SD\Assignment_B\Assignment_B\obj\Debug\Assignment_B.exe
+F:\3.2\SD\Assignment_B\Assignment_B\obj\Debug\Assignment_B.pdb
